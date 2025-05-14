@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+
+# Model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Datasets
+train/
+valid/
+test/
+datasets/
+Door_Detection_Research_Project/
+RaspberryPi_Door_Assistant/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
